@@ -15,5 +15,9 @@ class NutritionAnalyzer:
         return self.dataframe[feature_names].describe()
 
     def build_nutrition_summary(self):
-        """Return the nutrition summaries currently available in the project."""
-        return {}
+        """Return a dictionary with sugar summary"""
+    ...
+
+    def summarize_sugars(self):
+        """Return dictionary with mean sugar and median sugar"""
+    ...
