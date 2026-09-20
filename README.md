@@ -2,11 +2,10 @@
 ## Project purpose
 This project aims to identify the main patterns across selected features by using PCA and analyze nutritional aspects of the Open Food Facts data while showing the best way of coding.
 This project aims to be : 
-- Readable
+- Understandable
 - Reproducible
-- Optimised by using modularity
-- Clear about errors
-- Aligned with ethical principles
+- Maintainable
+- Shareable
 
 Data source : [Open Food Facts](https://fr.openfoodfacts.org/)
 
